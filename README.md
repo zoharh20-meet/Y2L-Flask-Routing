@@ -1,7 +1,7 @@
 # The Online Shop - Lab (Part 1); Flask Routing 
 <br/>
-Today, we are creating *an awesome online shop!*
-This is where I want to see the *creativity* kick in.
+Today, we are creating <b>an awesome online shop!</b>
+This is where I want to see the <b>creativity</b> kick in.
 <br/>
 Firstly, *Come up* with *a name* for your shop and *an idea* about what you are going to sell. It can be a pizza shop, a memes shop (?), even a fake Gucci shop. Whatever you can think of!
 <br/>
