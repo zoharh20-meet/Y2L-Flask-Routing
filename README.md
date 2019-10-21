@@ -3,16 +3,16 @@
 Today, we are creating <b>an awesome online shop!</b>
 This is where I want to see the <b>creativity</b> kick in.
 <br/>
-Firstly, *Come up* with *a name* for your shop and *an idea* about what you are going to sell. It can be a pizza shop, a memes shop (?), even a fake Gucci shop. Whatever you can think of!
+Firstly, <b>Come up</b> with <b>a name</b> for your shop and <b>an idea</b> about what you are going to sell. It can be a pizza shop, a memes shop (?), even a fake Gucci shop. Whatever you can think of!
 <br/>
 <br/>
 
-In our project folder, we have a *'static' folder* which will be used for *css and js files*, and a *'templates' folder* where you'll find all of our *templates (html files)* that we are/will be using.
+In our project folder, we have a <b>'static' folder</b> which will be used for <b>css and js files</b>, and a <b>'templates' folder</b> where you'll find all of our <b>templates (html files)</b> that we are/will be using.
 <br/>
-In today's lab, you'll only work with and edit 3 templates: *home.html, about.html and store.html*.
+In today's lab, you'll only work with and edit 3 templates: <b>home.html, about.html and store.html</b>.
 
 <br/>
-This lab is our _mini-project_ for *Flask and Databases*, in the next 2 sessions we'll keep building on top of it using new material that we'll learn every time :D 
+This lab is our <l>mini-project<l> for <b>Flask and Databases</b>, in the next 2 sessions we'll keep building on top of it using new material that we'll learn every time :D 
 
 
 #### Don't forget to *Fork* first and then *Clone* 
