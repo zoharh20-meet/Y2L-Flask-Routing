@@ -1,18 +1,18 @@
 # The Online Shop - Lab (Part 1); Flask Routing 
 <br/>
-Today, we are creating an awesome online shop!
-This is where I want to see the creativity kick in.
+Today, we are creating *an awesome online shop!*
+This is where I want to see the *creativity* kick in.
 <br/>
-Firstly, Come up with a name for your shop and an idea about what you are going to sell. It can be a pizza shop, a memes shop (?), even a fake Gucci shop. Whatever you can think of!
+Firstly, *Come up* with *a name* for your shop and *an idea* about what you are going to sell. It can be a pizza shop, a memes shop (?), even a fake Gucci shop. Whatever you can think of!
 <br/>
 <br/>
 
-In our project folder, we have a 'static' folder which will be used for css and js files, and a 'templates' folder where you'll find all of our templates (html files) that we are/will be using.
+In our project folder, we have a *'static' folder* which will be used for *css and js files*, and a *'templates' folder* where you'll find all of our *templates (html files)* that we are/will be using.
 <br/>
-In today's lab, you'll only work with and/or edit 3 templates: home.html, about.html and store.html.
+In today's lab, you'll only work with and edit 3 templates: *home.html, about.html and store.html*.
 
 <br/>
-This lab is our mini-project for Flask and Databases, in the next 2 sessions we'll keep building on top of it using new material that we'll learn every time :D 
+This lab is our _mini-project_ for *Flask and Databases*, in the next 2 sessions we'll keep building on top of it using new material that we'll learn every time :D 
 
 
 #### Don't forget to *Fork* first and then *Clone* 
