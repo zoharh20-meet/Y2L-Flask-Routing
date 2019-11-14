@@ -18,8 +18,9 @@ def about():
 def store():
 	return render_template("store.html")
 
+
 @app.route('/cart')
-def store():
+def cart():
 	return render_template("cart.html")
 #####################
 
