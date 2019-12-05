@@ -21,6 +21,7 @@ def store():
 	return render_template("store.html", p=products)
 
 
+
 @app.route('/cart')
 def cart():
 	return render_template("cart.html")
